@@ -1,0 +1,40 @@
+img{width: 400px;
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+
+
+input{
+    display: block;
+    width: 500px;
+    border: 1px solid lightgray;
+    line-height: 40px;
+    border-radius:40px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+}
+
+.btn{
+padding-left:18px;
+padding-right:18px;
+padding-top:10px;
+padding-bottom:10px;
+margin-left:6px;
+margin-right:3px;
+border:none;
+border-radius: 5px;
+font-size:15px;
+background-color:rgb(247, 247, 247);
+}
+
+.hell,.hello{
+    display:flex;
+    justify-content: center;
+}
+ul{
+}
